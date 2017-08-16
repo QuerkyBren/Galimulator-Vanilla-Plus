@@ -1,0 +1,6 @@
+name=Earth
+bits-file=earth.bits
+background-image=decoratedearth.png
+locations=earthcountries.merc
+timenoun=Year
+governments=earthgovs.json

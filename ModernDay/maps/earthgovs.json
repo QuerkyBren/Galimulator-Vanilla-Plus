@@ -1,0 +1,72 @@
+[
+{
+        "name": "Presidential_Republic",
+        "jobs": {
+            "level-5": [
+                "President",
+                "Vice-President"
+            ],
+            "level-4": [
+                "Secretary of State",
+                "Secretary of the Treasury",
+                "Secretary of War",
+                "Attorney General"
+            ],
+            "level-3": [
+                "Opposition Leader",
+                "Shadow Secretary of State",
+                "Shadow Secretary of the Treasury",
+                "Shadow Secretary of War",
+                "Shadow Attorney General"
+            ],
+            "level-2": [
+                "Influential Member of the Public",
+                "Influential Member of the Public",
+                "Influential Member of the Public"
+            ]
+        },
+        "specials": [
+            "DIPLOMATIC"
+        ],
+        "recruiting": "INTERNAL"
+    },
+    {
+        "name": "Commonwealth_Realm",
+        "jobs": {
+            "level-5": [
+                "Govenor-General"
+            ],
+            "level-4": [
+                "Prime Minister",
+                "Deputy Prime Minisiter"
+            ],
+            "level-3": [
+                "Cabinet Member",
+                "Cabinet Member",
+                "Cabinet Member",
+                "Cabinet Member",
+                "Cabinet Member"
+            ],
+            "level-2": [
+                "Opposition Leader",
+                "Shadow Cabinet Member",
+                "Shadow Cabinet Member",
+                "Shadow Cabinet Member",
+                "Shadow Cabinet Member",
+                "Shadow Cabinet Member"
+            ],
+            "level-1": [
+                "Influential Member of the Public",
+                "Influential Member of the Public",
+                "Influential Member of the Public"
+            ]
+        },
+        "specials": [
+            "DIPLOMATIC",
+            "DEFENSE",
+            "CAPITALIST"
+            
+        ],
+        "recruiting": "INTERNAL"
+    }
+    ]

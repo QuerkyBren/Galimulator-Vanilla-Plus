@@ -1,0 +1,5 @@
+name=Europe
+bits-file=europe.bits
+background-image=decoratedeurope.png
+governments=earthgovs.json
+locations=europecountries2.txt

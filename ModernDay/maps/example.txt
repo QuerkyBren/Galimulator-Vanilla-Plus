@@ -1,0 +1,24 @@
+{
+        "name": "Example",
+        "jobs": {
+            "level-5": [
+                "Example"
+            ],
+            "level-4": [
+                "Example"
+            ],
+            "level-3": [
+                "Example"
+            ],
+            "level-2": [
+                "Example"
+            ],
+            "level-1": [
+                "Example"
+            ]
+        },
+        "specials": [
+            "EXAMPLE"
+        ],
+        "recruiting": "EXAMPLE"
+    }
