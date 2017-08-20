@@ -16,5 +16,9 @@ Modern Day Scenario:
 ```
 Vanilla +:
 ```
-Coming soon!
+1. Create a copy of your Galimulator folder.
+2. Download the zip (or clone if you are using git).
+3. Extract the zip and navigate to the data folder inside the newly extracted folder.
+4. Delete the governments.json file in \YourNewGalimulatorFolder\data and move the governments.json file from the newly extracted folder into \YourNewGalimulatorFolder\data\ .
+5. Run the galimulator-desktop.jar file, select the save in slot 1 and enjoy!
 ```
